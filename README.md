@@ -17,8 +17,10 @@ You can make the below queries with that python script.
 
 
 ### Files used
-Include the files used
+3 files was used for the project that contains the US bikeshare data for each city. 
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+    #chicago.csv
+    #new_york_city.csv
+    #washington.csv 
+
 
