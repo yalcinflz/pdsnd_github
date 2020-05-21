@@ -4,10 +4,17 @@
 * Readme file was created at May 2020 
 
 ### Project Title
-Replace the Project Title
+* Explore US Bikeshare Data 
 
 ### Description
-Describe what your project is about and what it does
+This is a python script to analyze the bikeshare data for 3 major cities (Newyork, Chicago & Washington) in US. 
+You can make the below queries with that python script.  
+    
+    # Popular times of travel
+    # Popular stations and trip 
+    # Duration 
+    # User stats
+
 
 ### Files used
 Include the files used
